@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+secret.py
+*.db
+*.h5
+test/
+txt/
+old/
+.vscode/
